@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/Tcp_client.dir/Tcp_client.cpp.o -o Tcp_client 
